@@ -1,0 +1,16 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css");
+.jumbotron {
+    padding: 6rem 1rem;
+    background: #e2edff;
+}
+.nav-link {
+    color: white;
+}
+
+#projects {
+    background: #e2edff;
+}
+
+section {
+    padding-top: 5rem;
+}
